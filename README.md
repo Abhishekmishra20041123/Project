@@ -1,2 +1,2 @@
 # Project
-just to learn git and github
+just to learn git and github.
